@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Muhammed Taş
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=200&section=header&text=Aviation%20x%20Blockchain&fontSize=50&fontAlignY=35&desc=Building%20dApps%20on%20SUI%20&descAlignY=60&descAlign=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=200&section=header&text=Aviation%20x%20Blockchain&fontSize=50&fontAlignY=35&desc=Building%20Solutiouns%20on%20VSCode%20&descAlignY=60&descAlign=50" alt="header" />
 </div>
 
 ### 🚀 About Me
